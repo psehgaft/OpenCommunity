@@ -54,10 +54,16 @@ consultor@rhmx.org:~$ subscription-manager repos \
         --enable="rhel-7-server-ansible-2.6-rpms"
 ```
 
-#### Instalar paquetes necesarios
+#### Instalar paquetes necesarios RHEL
 
 ```console
 consultor@rhmx.org:~$ yum -y install yum-utils createrepo docker git
+```
+
+#### Instalar paquetes necesarios Fedora
+
+```console
+consultor@rhmx.org:~$ dnf -y install yum-utils createrepo docker git
 ```
 
 > Montar disco adicional sin formato (Crearlo en herrmaienta del hypervisor)
