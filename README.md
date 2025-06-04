@@ -1,4 +1,4 @@
-# 🌐 Open Manifiesto de la Comunidad Open Source
+# Open Manifiesto de la Comunidad Open Source
 
 ## Preámbulo
 
