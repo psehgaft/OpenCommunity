@@ -89,3 +89,7 @@ Invitamos a todas las personas y organizaciones que creen en el conocimiento lib
 ---
 
 > "El conocimiento compartido es poder multiplicado."
+
+## Acknowledgments
+
+Prepared in collaboration by **psehgaft**, **san985tos**, **frankjunker87-arch** and **tec-girl**.
