@@ -89,3 +89,10 @@ Invitamos a todas las personas y organizaciones que creen en el conocimiento lib
 ---
 
 > "El conocimiento compartido es poder multiplicado."
+
+
+## Contributors
+- [@tec-girl](https://github.com/tec-girl) — fork maintainer
+- [@psehgaft](https://github.com/psehgaft) — contributor
+- [@san985tos](https://github.com/san985tos) — contributor
+- [@frankjunker87-arch](https://github.com/frankjunker87-arch) — contributor
